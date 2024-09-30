@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/planzatoolhub/static/css/main.fcc9e502.css",
+    "main.js": "/planzatoolhub/static/js/main.53fb5057.js",
+    "index.html": "/planzatoolhub/index.html",
+    "main.fcc9e502.css.map": "/planzatoolhub/static/css/main.fcc9e502.css.map",
+    "main.53fb5057.js.map": "/planzatoolhub/static/js/main.53fb5057.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fcc9e502.css",
+    "static/js/main.53fb5057.js"
+  ]
+}
